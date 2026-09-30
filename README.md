@@ -1,3 +1,5 @@
+تقدیم به کاربران عزیز گرین ماینینگ از طرف سعید اعظمی 
+
 V2RayA Installer for HiveOS
 
 اسکریپت نصب خودکار V2RayA روی HiveOS برای سیستم‌های "x86_64 / amd64".
@@ -63,6 +65,9 @@ systemctl stop v2raya
 ```
 systemctl restart v2raya
 ```
+
+
+
 
 سازگاری
 
@@ -143,3 +148,4 @@ Compatibility
 - V2RayA: "2.5.8"
 
 «This installer only installs V2RayA, its required dependencies, and the system service. It does not automatically configure Proxy, TProxy, routing, or firewall rules.»
+
