@@ -1,4 +1,4 @@
-تقدیم به کاربران عزیز گرین ماینینگ از طرف سعید اعظمی 
+تقدیم به کاربران عزیز گرین ماینینگ 
 
 V2RayA Installer for HiveOS
 
@@ -25,6 +25,9 @@ V2RayA Installer for HiveOS
 ```
 bash <(curl -fsSL https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/install-v2raya.sh)
 ```
+
+ضمنا از طریق ربات زیر میتوانید سرویس اکانت VPN حجمی و زمان و کاربر نامحدود با کمترین قیمت تهیه بفرماید :
+https://t.me/oonvareabrasellbot
 
 یا ابتدا فایل را دانلود کنید:
 
