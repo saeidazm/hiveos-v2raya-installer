@@ -20,17 +20,21 @@ V2RayA Installer for HiveOS
 نصب سریع
 
 روی HiveOS با SSH وارد شوید و دستور زیر را اجرا کنید:
-
+```
 bash <(curl -fsSL https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/install-v2raya.sh)
+```
 
 یا ابتدا فایل را دانلود کنید:
 
+```
 wget https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/install-v2raya.sh
+```
 
 سپس:
-
+```
 chmod +x install-v2raya.sh
 ./install-v2raya.sh
+```
 
 پس از نصب، پنل V2RayA روی پورت "2017" در دسترس خواهد بود:
 
@@ -39,12 +43,13 @@ http://HIVEOS_IP:2017
 دستورات مدیریت
 
 بررسی وضعیت سرویس:
-
+```
 systemctl status v2raya --no-pager
+```
 
 مشاهده لاگ:
-
-journalctl -u v2raya -f
+```
+journalctl -u v2raya -f ```
 
 راه‌اندازی:
 
@@ -55,8 +60,9 @@ systemctl start v2raya
 systemctl stop v2raya
 
 راه‌اندازی مجدد:
-
+```
 systemctl restart v2raya
+```
 
 سازگاری
 
